@@ -199,9 +199,7 @@ document.addEventListener('DOMContentLoaded', function () {
             requestAnimationFrame(step);
         };
 
-        appendFps = function (fpsValue) {
-            fpsElement.textContent = ' ' + ;
-        };
+        
 
         step();
     })();
