@@ -1,6 +1,6 @@
 # README - My Personal Homepage
 
-这个项目是我的个人主页项目，基于 [ZYYO666/homepage](https://github.com/ZYYO666/homepage) 进行开发，为我的博客（前面提到的项目）提供优雅简约的主页入口。
+这个项目是我的个人主页项目，基于 [ZYYO666/homepage](https://github.com/ZYYO666/homepage) 进行开发，为我的博客提供优雅简约的主页入口。
 
 ## 项目预览
 
